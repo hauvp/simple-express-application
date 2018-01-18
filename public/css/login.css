@@ -1,0 +1,27 @@
+body {
+    height: 100%;
+    background-color: #444;
+}
+
+.vertical-offset {
+    padding-top: 30%;
+}
+
+.forgot-password {
+    margin: 10px 0 10px 0;
+}
+
+.checkbox {
+    margin-left: 5px;
+}
+
+.error,
+.error-message {
+    color: #df5656;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.form-control.error {
+    border: 1px solid #df5656;
+}
